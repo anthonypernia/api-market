@@ -1,0 +1,13 @@
+com.market.project
+com.market.project.domain
+com.market.project.domain.dto
+com.market.project.domain.repository
+com.market.project.domain.service
+com.market.project.persistance
+com.market.project.persistance.crud
+com.market.project.persistance.entity
+com.market.project.persistance.mapper
+com.market.project.web.config
+com.market.project.web.controller
+com.market.project.web.security
+com.market.project.web.security.filter
